@@ -28,7 +28,7 @@ Run them in this order. Each one explains itself step by step.
 | `stage4_ai_inference_MoM-BH1.ipynb` | Stage 4: neural-network emulator and Bayesian inference of the masses | Section 3 |
 | `stage5_eddington_checks_MoM-BH1.ipynb` | Stage 5: the corrected surface gravity, the Hβ gas speed, the "no solution" test, and Figure 1 | Sections 2–6 and Figure 1 |
 
-**Other notebooks** (not used in the note): `companion_search_MoM-BH1.ipynb` and `direct_collapse_test_MoM-BH1.ipynb`, a separate test of whether a neighbouring galaxy could have helped MoM-BH\*-1 form.
+**Other notebooks** (not used in the note): `companion_search_MoM_BH1.ipynb` and `direct_collapse_test_MoM-BH1.ipynb`, a separate test of whether a neighbouring galaxy could have helped MoM-BH\*-1 form.
 
 **Other files:**
 - `figure1_MoM-BH1_v3.png` is Figure 1 of the note, made by the stage 5 notebook.
